@@ -1,0 +1,6 @@
+# security.txt for diabeticdan.racing
+
+Contact: mailto:security@diabeticdan.racing
+Encryption: https://diabeticdan.racing/pgp-key.txt
+Preferred-Languages: en
+Expires: 2025-03-31T23:59:59Z
